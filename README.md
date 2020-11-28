@@ -58,5 +58,6 @@
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskarvijpuria&show_icons=true&locale=en&layout=compact" alt="sanskarvijpuria" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sanskarvijpuria&show_icons=true&locale=en" alt="sanskarvijpuria" /></p>
+<br>
+<br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanskarvijpuria&show_icons=true&locale=en" alt="sanskarvijpuria" /></p>
