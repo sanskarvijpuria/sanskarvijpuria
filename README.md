@@ -20,7 +20,7 @@
 
 - 😄 Available for **Freelance projects/internship opportunities.**
 
-- 📫 How to reach me **sanskarvijpuria@gmail.com**
+- 📫 How to reach me **sanskarvijpuria555@gmail.com**
 
 - ⚡ Fun fact **The word I hear most is what?(or क्या? in Hindi).**
 
