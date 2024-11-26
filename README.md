@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Sanskar Vijpuria :smiley:
 
-I'm a graduate of the University Institute of Technology, **Barkatullah University, Bhopal** 🎓. With a passion for data science and AI, I'm constantly exploring the depths of machine learning and deep learning. I also enjoy working with Appium and Selenium for mobile and web automation. Currently, I'm diving into the world of Flutter and Dart, expanding my horizons in mobile app development.
+I’m a graduate of the **University Institute of Technology, Barkatullah University, Bhopal** 🎓, driven by a passion for **software development** and **building impactful solutions**. I thrive on exploring the realms of **machine learning** and **deep learning**, constantly pushing the boundaries of what technology can achieve.  
+
+Currently, I’m diving into **Flutter** and **Dart** 📱, crafting dynamic and **user-friendly mobile applications**. My journey is fueled by **curiosity** and love for **solving complex problems**, whether through data-driven insights or developing scalable, efficient systems
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanskarvijpuria&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -15,18 +17,19 @@ I'm a graduate of the University Institute of Technology, **Barkatullah Universi
 
 ## 💬 Let's chat!
 - Ask me about Machine Learning, web series, or anything tech-related.
-- Reach me at **sanskarvijpuria555@gmail.com.**
+- Reach me at **sanskarv.dev@gmail.com.**
 
 ## ⚡ Fun fact:
 The word I hear the most is "What?" (or "क्या?" in Hindi) 😄
 
+## 📃Oh, I see you're hiring! You can find my resume right here—let's connect!
+[![View my Resume](https://img.shields.io/badge/View_my_Resume-8A2BE2?style=for-the-badge)](https://drive.google.com/file/d/18TcsBqqGKWQOIi62Q-T-zquSpkElZoyY/view?usp=sharing)
+
 ## 📫 Connect with me:
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sanskarvijpuria)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sanskarvijpuria/)
+[![X (Twitter)](https://img.shields.io/badge/-X(Twitter)-1DA1F2?style=flat&logo=X&logoColor=white)](https://twitter.com/sanskarvijpuria)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sanskarvijpuria/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sanskarvijpuria)
-[![View my Resume](https://img.shields.io/badge/View_my_Resume-8A2BE2)](https://drive.google.com/file/d/1R8Em2Y_025FhAM8l7cjFE09LeK6WQP0x/view?usp=drive_link)
-
 
 
 ## 🔧 Languages and Tools:
